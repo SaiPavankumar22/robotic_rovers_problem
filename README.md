@@ -1,5 +1,3 @@
-# Backend Developer Internship – Assignment
-
 ## Problem Statement
 
 A squad of robotic rovers are to be landed by ISRO on a plateau on Moon. This plateau, which is curiously rectangular, must be navigated by the rovers so that their on-board cameras can get a complete view of the surrounding terrain to send back to Earth.
